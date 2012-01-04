@@ -41,6 +41,10 @@ p {
     margin-bottom: 9px;
 }
 
+a img {
+    border: none;
+}
+
 a {
     color: #0069d6;
     text-decoration: none;
@@ -56,6 +60,10 @@ a:hover {
 p:first-child {
     text-align: center;
     font-family: Georgia, serif;
+}
+
+.center {
+    text-align: center;
 }
 
 div#content {
