@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ title }}</title>
+    <meta name="description" content="">
+    <meta name="author" content="Department of Double Rainbows">
+    <link href="app.css" rel="stylesheet">
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-6205540-11']);
+      _gaq.push(['_setDomainName', 'protothon.com']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+</head>
+
+<body>
+<div id="content">
+    <div class="box">
+        <p>&mdash;space for the place between code and creativity&mdash;</p>
+        <div id="social"><span><a href="http://twitter.com/protothon">Twitter</a></span><span><a href="http://www.facebook.com/groups/protothon/">Facebook</a></span></div>
+        <h1><a href="/">Protothon</a></h1>
+
+        <ul class="menu">
+            <li><a href="/team.html">Team</a></li>
+            <li><a href="/sponsors.html">Sponsors</a></li>
+            <!--<li><a href="/future.html">Future</a></li>-->
+            <li><a href="/events.html">Events</a></li>
+            <li class="last"><a href="/contact.html">Contact</a></li>
+        </ul>
+    </div>
+    {{ content }}
+</div>
+</body>
+</html>
+
