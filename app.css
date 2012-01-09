@@ -124,3 +124,8 @@ ul.menu li {
 ul.menu li a {
     color: #000;
 }
+
+h4 {
+    clear: both;
+}
+
