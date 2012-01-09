@@ -118,7 +118,7 @@ ul.menu li.last, ul.menu li:last-child {
 ul.menu li {
     display: inline;
     margin: 0;
-    padding: 40px;
+    padding: 0 82px 0 0;
     text-transform: uppercase;
 }
 ul.menu li a {
