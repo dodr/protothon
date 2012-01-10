@@ -129,3 +129,9 @@ h4 {
     clear: both;
 }
 
+table.team {
+    width: 100%;
+}
+table.team tr td {
+    width: 50%;
+}
