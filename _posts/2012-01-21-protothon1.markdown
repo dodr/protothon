@@ -1,0 +1,37 @@
+---
+layout: default
+title: Protothon 1
+---
+<div class="box">
+    <div id="event">
+        <h2>#protothon1</h2>
+        <p><strong>21 January 2012</strong></p>
+        <p>Theme<br><strong>Spotify API</strong></p>
+        <p>Venue<br><a href="http://www.berghs.se/" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'berghs']);"><strong>Berghs School of Communication</strong></a></p>
+        <p>Sveavägen 34, Stockholm</p>
+    </div>
+    <p>Spotify has opened up their API's. This is exciting. But what can we actually do with them?</p>
+    <p>Protothon will explore the creative potential of this in a 12 hour event where inter-disciplinary teams of creatives and coders will prototype their asses off to invent the answer.</p>
+    <p>Some fine people from Spotify will be present at the event to teach us all we need to know about Spotify apps.</p>
+    <p class="center"><a href="http://spotify.com"><img src="../../images/p1/spotify-logo.png" alt="Spotify Logo"></a></p>
+</div>
+
+<div class="box">
+    <h2>Partners for Protothon 1</h2>
+
+    <a href="http://www.bramhults.se/" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'bramhults']);"><img src="../../images/p1/bramhults.png"></a>
+    <p>Juice Partner</p>
+
+    <a href="http://resume.se" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'resume']);"><img src="../../images/resume.png" height="75px"></a>
+    <p>Media Partner</p>
+
+    <a href="http://it-huset.se" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'ithuset']);"><img src="../../images/p1/ithuset-logo.png" style="padding: 20px"></a>
+    <p>Beverage Partner</p>
+
+    <a href="http://propellerheads.se/" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'propellerheads']);"><img src="../../images/p1/propellerhead-logo.jpg" width="450"></a>
+    <p>Food Partner</p>
+
+    <a href="http://www.berghs.se/" onClick="_gaq.push(['_trackEvent', 'Links', 'Partner', 'berghs']);"><img src="../../images/p1/berghs.png"></a>
+    <p>Education and Venue Partner</p>
+
+</div>
